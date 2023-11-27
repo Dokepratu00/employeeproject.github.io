@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "firstname": "Vikas",
+      "lastname": "Tambe",
+      "birthdate": "1999-01-23",
+      "gender": "m",
+      "education": "graduate",
+      "company": "TCS",
+      "jobExperience": 2,
+      "salary": 4,
+      "profile": "Profile-02 .jpg",
+      "id": 8
+    },
+    {
+      "firstname": "Shubham",
+      "lastname": "Thorat",
+      "birthdate": "1995-10-16",
+      "gender": "m",
+      "education": "graduate",
+      "company": "Cognizant",
+      "jobExperience": 2,
+      "salary": 4.6,
+      "profile": "Profile-04.jpg",
+      "id": 10
+    },
+    {
+      "firstname": "maya",
+      "lastname": "jondhale",
+      "birthdate": "2005-01-02",
+      "gender": "f",
+      "education": "graduate",
+      "company": "hefshine",
+      "jobExperience": 2,
+      "salary": 1,
+      "profile": "Profile-03.jpg",
+      "id": 12
+    },
+    {
+      "firstname": "Brijesh",
+      "lastname": "Torkari",
+      "birthdate": "2005-01-02",
+      "gender": "m",
+      "education": "graduate",
+      "company": "7up",
+      "jobExperience": 1,
+      "salary": 3,
+      "profile": "Profile-05.jpg",
+      "id": 13
+    },
+    {
+      "firstname": "shivani",
+      "lastname": "patil",
+      "birthdate": "1999-04-09",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "7up",
+      "jobExperience": 1,
+      "salary": 4,
+      "profile": "Profile-01.jpg",
+      "id": 14
+    },
+    {
+      "firstname": "Akshay",
+      "lastname": "Paramane",
+      "birthdate": "1991-03-31",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "HefShine",
+      "jobExperience": 10,
+      "salary": 5,
+      "profile": "Capture.PNG",
+      "id": 15
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

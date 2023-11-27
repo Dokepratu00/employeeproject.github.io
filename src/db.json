@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "firstname": "Shivani",
+      "lastname": "Patil",
+      "birthdate": "1999-01-01",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "TCS",
+      "jobExperience": 2,
+      "salary": 4,
+      "profile": "Profile-01.jpg",
+      "id": 1
+    },
+    {
+      "firstname": "Vikas",
+      "lastname": "Tambe",
+      "birthdate": "1999-02-02",
+      "gender": "m",
+      "company": "Vendekin technology",
+      "jobExperience": 1,
+      "salary": 3,
+      "profile": "Profile-02 .jpg",
+      "id": 2
+    },
+    {
+      "firstname": "Shubham",
+      "lastname": "Thorat",
+      "birthdate": "1997-03-03",
+      "gender": "m",
+      "company": "wipro",
+      "jobExperience": 2,
+      "salary": 3,
+      "profile": "Profile-04.jpg",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
